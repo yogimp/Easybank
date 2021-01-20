@@ -1,0 +1,1 @@
+# EASYBANK is leverage Open Banking to turn your bank account into your financial hub
